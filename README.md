@@ -1,4 +1,4 @@
-# Hackthon_Hacking_days_2
+# Hackthon Hacking days²
 Aqui se encontram links, referencias e códigos utilizados na realização do projeto.
 
 ## Links: 
