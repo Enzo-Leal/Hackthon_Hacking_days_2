@@ -17,3 +17,7 @@ CNN Brasil
 - Power BI
 - Canva
 - Figma
+
+## Link para o aplicativo:
+- https://www.figma.com/proto/Y7JU6NmYYjYKsiEJF2fIyV/Hackathon-Carrefour?scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A51&node-id=28%3A495
+Figma
